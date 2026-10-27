@@ -7,7 +7,7 @@
 
 | Repository | Minimum C++ Standard | Last Commit | Description | Notes |
 | --- | --- | --- | --- | --- |
-| [TartanLlama/expected](https://github.com/TartanLlama/expected) | C++11 |  | `tl::expected`，单头文件实现，附带函数式风格扩展。 | 许可证 CC0-1.0；提供 `map` / `and_then` / `or_else` 等链式操作；支持 C++11/14/17。 |
-| [ibmibmibm/expected](https://github.com/ibmibmibm/expected) | C++17 |  | 待补充。 | 该仓库公开信息暂未核实，内容待补充。 |
-| [nonstd-lite/expected-lite](https://github.com/nonstd-lite/expected-lite) | C++11 |  | `nonstd::expected`，单文件头文件库，基于 `std::expected` 提案实现。 | 许可证 BSL-1.0；自 0.7.0 起提供 P2505 单子操作；无第三方依赖。 |
-| [zeus-cpp/expected](https://github.com/zeus-cpp/expected) | C++17 |  | `zeus::expected`，将 `std::expected` backport 到 C++17。 | 许可证 MIT；实现 P0323R12 / P2505R5 / P2549R1 及若干 LWG 修复。 |
+| [TartanLlama/expected](https://github.com/TartanLlama/expected) | C++11 |  2025-09-01  | `tl::expected`，单头文件实现，附带函数式风格扩展。 | 许可证 CC0-1.0；提供 `map` / `and_then` / `or_else` 等链式操作；支持 C++11/14/17。 |
+| [ibmibmibm/expected](https://github.com/ibmibmibm/expected) | C++17 |  2021-11-18  | 待补充。 | 该仓库公开信息暂未核实，内容待补充。 |
+| [nonstd-lite/expected-lite](https://github.com/nonstd-lite/expected-lite) | C++11 |  2026-10-15  | `nonstd::expected`，单文件头文件库，基于 `std::expected` 提案实现。 | 许可证 BSL-1.0；自 0.7.0 起提供 P2505 单子操作；无第三方依赖。 |
+| [zeus-cpp/expected](https://github.com/zeus-cpp/expected) | C++17 |  2026-10-13  | `zeus::expected`，将 `std::expected` backport 到 C++17。 | 许可证 MIT；实现 P0323R12 / P2505R5 / P2549R1 及若干 LWG 修复。 |
