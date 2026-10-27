@@ -1,0 +1,11 @@
+
+{
+  "tables": [
+    {
+      "section": "std::expected",
+      "repository_column": "Repository",
+      "date_column": "Last Commit",
+      "exclude_repositories": []
+    }
+  ]
+}
