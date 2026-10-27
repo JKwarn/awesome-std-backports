@@ -5,7 +5,7 @@
 
 `std::expected<T, E>` 是 C++23 标准库引入的类型，用于表示「要么持有一个成功值 `T`，要么持有一个错误值 `E`」。本清单收录把 `std::expected`（含 P2505 单子操作等相关提案）向下移植到更低 C++ 标准版本的实现。
 
-| Repository | Minimum C++ Standard | Last Updated | Description | Notes |
+| Repository | Minimum C++ Standard | Last Commit | Description | Notes |
 | --- | --- | --- | --- | --- |
 | [TartanLlama/expected](https://github.com/TartanLlama/expected) | C++11 |  | `tl::expected`，单头文件实现，附带函数式风格扩展。 | 许可证 CC0-1.0；提供 `map` / `and_then` / `or_else` 等链式操作；支持 C++11/14/17。 |
 | [ibmibmibm/expected](https://github.com/ibmibmibm/expected) | C++17 |  | 待补充。 | 该仓库公开信息暂未核实，内容待补充。 |
